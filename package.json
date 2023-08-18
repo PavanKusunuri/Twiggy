@@ -1,0 +1,26 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is namaste react learning project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavanKusunuri/NamasteReact.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Pavan Kusunuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavanKusunuri/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/PavanKusunuri/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
