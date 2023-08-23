@@ -1,0 +1,73 @@
+
+
+Webpacker is a bundler which helps to manage to give production ready code
+
+Parcel:
+
+
+
+Threr are 2 types of dependencies
+
+1. DevDependency:
+It is needed for development purpose
+
+2. Normal Depedency
+It is needed for production also
+
+
+Package.json is a configuration for npm
+
+package-lock.json keeps the record of exact version of dependency
+
+
+Transistive Dependencies
+
+npm -- > calling the command of npm 
+npx -- > executing the package 
+
+CDN is the right way to develop React Applications
+
+
+Parcel::
+
+   - Dev Build
+   - Local Server
+   - Hot Module Reloading
+   - File Watching Algorithm - written in C++
+   - Caching - Faster Builds
+   - Image Optimization
+   - Minification
+   - Bunduling
+   - Compress
+   - Consistent Hashing
+   - Code Splitting 
+   - Differential Bundling -- support Older Browsers 
+   - Error Handling 
+   - Diagonistics
+   - HTTPS
+    - Tree Shaking -- remove unused code
+
+
+For production build 
+npx parcel build index.html
+
+
+JSX is not HTML in JavaScript 
+    -- > It is HTML or XML like Syntax
+
+
+
+Abstract Syntax Tree:
+
+
+JSX (Transpiled before it reaches the JS) - PARCEL - Babel
+JSX => Babel transpiles it to React.createElement => ReactElement-JS Object => HTMLElement(render)
+
+
+
+
+
+
+
+
+
