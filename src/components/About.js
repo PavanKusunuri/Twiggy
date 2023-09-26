@@ -1,9 +1,9 @@
 const About = () => {
-    return (
-        <div>
-            <h1> About </h1>
-            <h2> This is a replica of Swiggy</h2>
-        </div>
-    )
-}
+  return (
+    <div>
+      <h1> About </h1>
+      <h2> This is a replica of Swiggy</h2>
+    </div>
+  );
+};
 export default About;
